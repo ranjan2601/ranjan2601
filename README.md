@@ -97,3 +97,8 @@ I'm passionate about building intelligent systems that solve real-world problems
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjan2601)
 
 </div>
+
+---
+### 🐍 Contribution
+![Snake animation](https://raw.githubusercontent.com/ranjan2601/ranjan2601/output/github-contribution-grid-snake-dark.svg)
+
